@@ -3,7 +3,7 @@ I think the injector is patched, so if you want to you use and update be a skid 
 
 # WHY DID I RELEASE THIS?
 
-- First reason: Me and that developer don't talk much and I caught him pasting
+- First reason: Me and that developer don't talk much and I caught him pasting 😭
 - Second Reason: I just wanna be nice and spread this injector
 
 ----------------------------------------------------------------------------------
