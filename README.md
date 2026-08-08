@@ -13,7 +13,7 @@ If you want me to try and update this just contact me via discord. (I'll put it 
 
 ----------------------------------------------------------------------------------
 
-### DISCORD: Byfron `byfron_bypasser`
+### DISCORD: Bypass `bypass_failed`
 
 Just wait for a response from me my dms are closed... so it will just go through message requests, be patient because I check them every day. If there useless I just simply ignore them, If they are cool ill just answer ig.
 
