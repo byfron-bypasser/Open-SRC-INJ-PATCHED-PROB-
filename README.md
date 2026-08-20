@@ -1,3 +1,5 @@
+The method the injector uses: Thread Hijacking (detected asf use it and your cooked)
+
 This isn't my injector. I think a friend gave to me a while back.
 I think the injector is patched, so if you want to you use and update be a skid and do whatever.
 
